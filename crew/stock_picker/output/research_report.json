@@ -1,0 +1,28 @@
+{
+  "research_list": [
+    {
+      "name": "Perplexity AI",
+      "market_position": "Perplexity AI is a top-tier AI startup specializing in AI-driven search, processing over 780 million monthly queries as of May 2025, a significant increase from 400 million monthly queries in 2024. It has an estimated 2023 revenue of approximately $24 million which grew to $34 million in 2024, largely driven by subscriptions. Valuation surged from $150 million in early 2023 to between $9 billion and $20 billion in 2024, reaching an $18 billion valuation after a $100 million funding round in mid-2025.",
+      "future_outlook": "The AI search market and broader AI space are expected to grow substantially, with the AI industry valued at around $600 billion in 2025 and projected to increase by over 500% in the next five years. Perplexity AI’s exponential growth in user base and revenue, coupled with expanding funding rounds, positions it strongly for continued market penetration and leadership amid rising AI adoption across sectors.",
+      "investment_potential": "Perplexity AI presents a compelling investment opportunity due to its rapid user growth, sizable market valuation, and revenue expansion. Risks include the intense competition in AI search and tech innovation pace. However, its strong funding backing and scaling user engagement mitigate adoption risks, making it attractive for investors seeking exposure to the high-growth AI search segment."
+    },
+    {
+      "name": "Beehiiv",
+      "market_position": "Beehiiv is a fast-growing creator-focused newsletter platform disrupting the email SaaS sector with a reported annual recurring revenue (ARR) of over $12 million in 2023 and estimates rising to $30 million ARR in 2025. The platform has seen significant adoption, with newsletter counts nearly doubling year-over-year and a large, expanding addressable market of creators and marketers shifting to personalized email content.",
+      "future_outlook": "The email newsletter market is growing rapidly as creators and businesses seek direct audience engagement tools. Beehiiv’s growth trajectory and platform enhancements align with increasing demand for newsletter monetization and SaaS tools in content creation. The company’s ability to scale ARR and user base suggests robust medium-term growth potential as it capitalizes on the digital creator economy’s expansion.",
+      "investment_potential": "With demonstrated ARR growth, strong market adoption, and positioning in a disruptive niche within SaaS, Beehiiv offers promising investment potential. Risks include competitive dynamics from legacy players like Substack and Mailchimp. Nevertheless, Beehiiv's innovation in user experience and creator-centric features provide a differentiated value proposition that supports growth and scalability."
+    },
+    {
+      "name": "PlayHT",
+      "market_position": "PlayHT is a leading player in the AI voice generator market, which was valued at approximately $3 billion in 2024 and is projected to grow at a 37.1% CAGR to reach over $20 billion by 2030. PlayHT has attained traction particularly in education and business communication segments, leveraging AI-generated voice technologies to transform digital content consumption and accessibility.",
+      "future_outlook": "The AI voice generation market's rapid growth is driven by adoption in education, corporate communications, media, and accessibility services. PlayHT’s focus on high-quality voice synthesis positions it well to capitalize on expanding demand. The anticipated multi-billion dollar market size and consistent CAGR indicate strong long-term growth opportunities.",
+      "investment_potential": "PlayHT offers significant investment appeal due to its leadership in a fast-growing vertical with diverse applications. Key investment strengths are the sizeable projected market expansion and PlayHT’s early mover advantage. Challenges may stem from technological innovation pace and competition, but the sustained market growth and increasing adoption suggest favorable investment returns."
+    },
+    {
+      "name": "DoorLoop",
+      "market_position": "DoorLoop is an emerging leader in the property management software (proptech) space, known for strong automation capabilities and superior user experience. It operates within a large U.S. property management market estimated at $81.5 billion in 2025, with software market sub-segments growing steadily. DoorLoop’s solutions save users significant time (23+ hours monthly) through automation, driving solid adoption",
+      "future_outlook": "The property management software market is projected to grow at around 7.7% CAGR through 2030, expanding the opportunity for DoorLoop’s automated SaaS solutions. Increasing trends towards digital property management and operational efficiency provide tailwinds. The U.S. market size is expected to exceed $98 billion by 2028, supporting DoorLoop’s growth prospects as digitization accelerates.",
+      "investment_potential": "DoorLoop’s focus on streamlining property management with automation and excellent user interface places it well in a growing and under-digitized market. Investment potential is strong given the large addressable market and the company’s rapid adoption rates. Risks may include competition and market fragmentation, but DoorLoop’s differentiation through user satisfaction and automation strength reduces these concerns."
+    }
+  ]
+}
